@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/noh1oo1/kokee.git/static/css/main.073c9b0a.css",
+    "main.js": "/noh1oo1/kokee.git/static/js/main.bd8f141c.js",
+    "static/js/787.9852c766.chunk.js": "/noh1oo1/kokee.git/static/js/787.9852c766.chunk.js",
+    "static/media/logo.svg": "/noh1oo1/kokee.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/noh1oo1/kokee.git/index.html",
+    "main.073c9b0a.css.map": "/noh1oo1/kokee.git/static/css/main.073c9b0a.css.map",
+    "main.bd8f141c.js.map": "/noh1oo1/kokee.git/static/js/main.bd8f141c.js.map",
+    "787.9852c766.chunk.js.map": "/noh1oo1/kokee.git/static/js/787.9852c766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bd8f141c.js"
+  ]
+}
